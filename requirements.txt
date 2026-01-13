@@ -1,2 +1,9 @@
 streamlit
 pycaret==3.0.0rc9
+streamlit
+pycaret==2.3.10
+scikit-learn==0.23.2
+pandas==1.3.5
+numpy==1.21.6
+
+
